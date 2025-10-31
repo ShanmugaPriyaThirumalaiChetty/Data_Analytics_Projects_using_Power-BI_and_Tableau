@@ -31,7 +31,7 @@ Dashboard snapshot!
 ![Portfolio Dashboard](https://github.com/ShanmugaPriyaThirumalaiChetty/Data_Analytics_Projects_using_Power-BI_and_Tableau/blob/b00c1dcf944cb37264bbd260c6f003e32f410d5b/Clinical%20Outcome%20Analysis.png)
 
 [🔗 Click the Link to view the full dashboard]
-https://public.tableau.com/app/profile/shanmuga.priya7085/viz/ClinicalOutcomeAnalysisWithDemographicParametersageandgender/ICULOSAnalysis?publish=yes
+(https://public.tableau.com/app/profile/shanmuga.priya7085/viz/ClinicalOutcomeAnalysisWithDemographicParametersageandgender/ICULOSAnalysis?publish=yes)
 
 Correlation Between Fibrinogen Concentration and Partial Thromboplastin Time (PTT) using trend line
 
@@ -43,7 +43,22 @@ Dashboard snapshot!
 ![Portfolio Dashboard](https://github.com/ShanmugaPriyaThirumalaiChetty/Data_Analytics_Projects_using_Power-BI_and_Tableau/blob/e942037db420a652e807b67ccd1fc7942694fa84/PTT%2C%20Fibrinogen%20Correlation_%20Trendline.png)
 
 [🔗 Click the link to view the full dashboard]
-https://public.tableau.com/app/profile/shanmuga.priya7085/viz/PTTFibrinogenCorrelationUsingTrendline/CorrelationDashboard?publish=yes
+(https://public.tableau.com/app/profile/shanmuga.priya7085/viz/PTTFibrinogenCorrelationUsingTrendline/CorrelationDashboard?publish=yes)
+
+
+Systemic Inflammatory Response Syndrome (SIRS) Email Alert
+
+An alert system using URL actions in the dashboard supports timely clinical response alerting the relevant stakeholders directly from the dashboard.
+
+Tool Used: Tableau 
+
+Dashboard snapshot!
+![Portfolio Dashboard](https://github.com/ShanmugaPriyaThirumalaiChetty/Data_Analytics_Projects_using_Power-BI_and_Tableau/blob/3182c36383dbf1d7ad2379a352705faa693f6666/Systemic%20Inflammatory%20Response%20Syndrome%20(SIRS)%20Email%20Alert.png)
+
+[🔗 Click the link to open the interactive dashboard]
+(https://public.tableau.com/app/profile/shanmuga.priya7085/viz/systemicInflammatoryResponseSyndromeSIRSEmailAlert/SIRS?publish=yes)
+
+
 
 
 
