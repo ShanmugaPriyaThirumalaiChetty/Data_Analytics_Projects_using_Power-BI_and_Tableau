@@ -40,7 +40,7 @@ Correlation Analysis is Performed to Understand if there is any significant rela
 Tool Used: Tableau 
 
 Dashboard snapshot!
-![Portfolio Dashboard]
+![Portfolio Dashboard](https://github.com/ShanmugaPriyaThirumalaiChetty/Data_Analytics_Projects_using_Power-BI_and_Tableau/blob/e942037db420a652e807b67ccd1fc7942694fa84/PTT%2C%20Fibrinogen%20Correlation_%20Trendline.png)
 
 [🔗 Click the link to view the full dashboard]
 https://public.tableau.com/app/profile/shanmuga.priya7085/viz/PTTFibrinogenCorrelationUsingTrendline/CorrelationDashboard?publish=yes
