@@ -1,7 +1,7 @@
 # Data_Analytics_Projects_using_Power-BI_and_Tableau
  Awesome Chocolate Sales Analysis
 
-A sales performance dashboard tracking product trends, regions and revenue
+A sales performance dashboard tracking product trends, regions, and revenue
 
 Tool Used: Power BI 
 
